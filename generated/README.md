@@ -1,7 +1,7 @@
 
-# j
+# How to create a readme
 ## Description
-j
+Using exisiting code, I created code to create a proffesional Readme
 ## Table of Contents
   1. [installation](#installation)
   2. [usage](#usage)
@@ -11,19 +11,19 @@ j
   6. [email](#email)
   7. [license](#license)
 ## Installation
-j
+using npm and inquire install
 ## Usage
-j
+open up  the command terminal and answer questions
 ## Contribution
-j
+Me
 ## Test 
-j
+npm test
 ## GitHub: 
-j
+jasonlewis007
 ## Email: 
-j
+jason
 
 ## License
-<img src="https://img.shields.io/badge/license-MIT-goldenrod" alt="badge-MIT" height="44" />
+<img src="https://img.shields.io/badge/license-CC-purple" alt="badge-CC" height="35" />
   
     
