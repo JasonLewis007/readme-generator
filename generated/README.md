@@ -1,7 +1,7 @@
 
-# How to create a readme
+# readme generator
 ## Description
-Using exisiting code, I created code to create a proffesional Readme
+this project will create a professional readme
 ## Table of Contents
   1. [installation](#installation)
   2. [usage](#usage)
@@ -11,19 +11,19 @@ Using exisiting code, I created code to create a proffesional Readme
   6. [email](#email)
   7. [license](#license)
 ## Installation
-using npm and inquire install
+npm insatll, npm install inquire, node index
 ## Usage
-open up  the command terminal and answer questions
+run node index, answer questions, choose license, create.
 ## Contribution
-Me
+1
 ## Test 
 npm test
 ## GitHub: 
 jasonlewis007
 ## Email: 
-jason
+jason@gmail.com
 
 ## License
-<img src="https://img.shields.io/badge/license-CC-purple" alt="badge-CC" height="35" />
+<img src="https://img.shields.io/badge/license-Apache-blue" alt="badge-Apache" height="44" />
   
     
